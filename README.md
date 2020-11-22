@@ -1,8 +1,9 @@
 # ResponsivePortfolio
 About this Repository:
 
-This portfolio was intended to create a more personal place where I can share some of my future web page layouts and to be able to connect with people who would like to reach out to me via my website. There are still many adjustments I would like to do in order to have a user friendly site, with responsive layouts to multiple devices including mobile devices, and tablets.
+This portfolio is intended to create a personal place where I can share some of my repositories and future projects. 
 
-Links:
+Deployed Website Link:
 
-https://kar3n33.github.io/ResponsivePortfolio/.
+https://kar3n33.github.io/ResponsivePortfolio/
+
