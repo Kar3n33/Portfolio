@@ -1,6 +1,6 @@
 body {
     background-color: lightgrey;
-    background-image: url("");
+    background-image: url("https://media.istockphoto.com/vectors/abstract-geometric-hexagon-overlay-pattern-on-white-and-gray-vector-id954125312?k=6&m=954125312&s=612x612&w=0&h=D7ip9KxbfoptKV5gHQQJpRrYL2t0II_e6YJqhZzrFd0=");
 
   }
 .col {
@@ -10,14 +10,14 @@ body {
     background-color: rgb(184, 219, 219);
 }
 
-.footer {
+/* .footer {
     position: fixed;
     bottom: 0;
     width: 87%;
     height: 60px;
     line-height: 60px; 
     background-color: #f5f5f5;
-  }
+  } */
 .container01 {
     text-emphasis: float;
 
@@ -37,6 +37,9 @@ body {
 
 }
 .profile1 {
-        width: 300px;
+        width: 250px;
         height: auto;
     }
+.cardlink1 {
+    url=""
+}
