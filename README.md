@@ -5,5 +5,6 @@ This portfolio is intended to create a personal place where I can share some of 
 
 Deployed Website Link:
 
-https://kar3n33.github.io/ResponsivePortfolio/
+https://kar3n33.github.io/Portfolio/
+
 
