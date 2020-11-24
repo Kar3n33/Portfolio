@@ -31,6 +31,7 @@ body {
 }
 .container06 {
     background-color: rgb(184, 219, 219);
+    align-content: center;
 }
 .customclass {
     margin: 15px;
@@ -40,6 +41,11 @@ body {
         width: 250px;
         height: auto;
     }
-.cardlink1 {
-    url=""
-}
+    .card-columns {
+        @include media-breakpoint-only(lg) {
+          column-count: 4;
+        }
+        @include media-breakpoint-only(xl) {
+          column-count: 5;
+        }
+      }
