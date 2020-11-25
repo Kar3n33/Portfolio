@@ -31,7 +31,8 @@ body {
 }
 .container06 {
     background-color: rgb(184, 219, 219);
-    align-content: center;
+    align-content: right;
+    
 }
 .customclass {
     margin: 15px;
